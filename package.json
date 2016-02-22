@@ -19,5 +19,9 @@
   "bugs": {
     "url": "https://github.com/xedric/calculate-area-of-rectangle/issues"
   },
-  "homepage": "https://github.com/xedric/calculate-area-of-rectangle#readme"
+  "homepage": "https://github.com/xedric/calculate-area-of-rectangle#readme",
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^2.4.5"
+  }
 }
