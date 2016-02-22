@@ -1,0 +1,23 @@
+{
+  "name": "calculate-area-of-rectangle",
+  "version": "1.0.0",
+  "description": "A simple demo of Mocha Chai where we test a function that calculates the area of a rectangle.",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xedric/calculate-area-of-rectangle.git"
+  },
+  "keywords": [
+    "Mocha",
+    "Chai"
+  ],
+  "author": "Niklas Mårdby",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/xedric/calculate-area-of-rectangle/issues"
+  },
+  "homepage": "https://github.com/xedric/calculate-area-of-rectangle#readme"
+}
